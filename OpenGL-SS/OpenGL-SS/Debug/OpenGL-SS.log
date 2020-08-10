@@ -1,0 +1,6 @@
+﻿  Source.cpp
+  LINK : C:\dev\CPP\OpenGL-SS\Debug\OpenGL-SS.exe not found or not built by the last incremental link; performing full link
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'C:\dev\CPP\OpenGL-SS\Debug\vc120.pdb'; linking object as if no debug info
+  OpenGL-SS.vcxproj -> C:\dev\CPP\OpenGL-SS\Debug\OpenGL-SS.exe
